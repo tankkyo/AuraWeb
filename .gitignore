@@ -1,4 +1,4 @@
 .idea
-WEB-INF/classes
-WEB-INF/lib
+target/
 out/
+.DS_Store
